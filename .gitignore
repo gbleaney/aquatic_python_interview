@@ -1,0 +1,11 @@
+.miniconda3
+.micromamba
+.venv
+.idea
+.ipynb_checkpoints
+aquatic_interview_solution.patch
+__pycache__
+miniconda.sh
+venv
+.DS_Store*
+oryx-build-commands.txt
